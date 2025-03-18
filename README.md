@@ -3,6 +3,7 @@
 Esta es una API RESTful simple desarrollada en Node.js para la prueba Foccuz. La API realiza una llamada asíncrona para obtener datos de una API externa y expone los siguientes endpoints:
 
 - **GET /books:** Lista todos los libros.
+- **GET /books/author?search=NOMBRE_DEL_AUTOR:** Devuelve una lista de libros escritos por el autor especificado.
 - **GET /books/:isbn:** Devuelve el libro que corresponde al ISBN proporcionado.
 
 ## Requisitos
