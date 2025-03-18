@@ -23,4 +23,4 @@ Esta es una API RESTful simple desarrollada en Node.js para la prueba Foccuz. La
 5. Iniciar el servidor:
     ```bash
     npm start
-6. Acceder a la apien http://localhost:3000
+6. Acceder a la api en http://localhost:3000
